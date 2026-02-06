@@ -103,7 +103,3 @@ The results show that **ensemble models and margin-based classifiers** provide t
 * Pandas
 ---
 
-
-
-**Vandana Vasudevan**
-Python Developer | Aspiring Data Scientist
