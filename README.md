@@ -101,9 +101,6 @@ The results show that **ensemble models and margin-based classifiers** provide t
 * Python
 * Scikit-learn
 * Pandas
-* NumPy
-* Jupyter Notebook
-
 ---
 
 
